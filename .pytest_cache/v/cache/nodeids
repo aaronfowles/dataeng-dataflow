@@ -1,0 +1,3 @@
+[
+  "tests/adobe_analytics/test_process.py::test_create_pcoll"
+]
