@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 
 install_requires = open('requirements.txt').read().strip().split('\n')
 
